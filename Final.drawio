@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T09:03:24.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="81Lt1De7KPClgggaoS_l" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T09:06:19.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zNHZiQ0QkfJqdzogvKc5" version="20.7.4" type="github">
   <diagram id="2tyQqK5q03kK8aRhsHHK" name="Page-1">
-    <mxGraphModel dx="1615" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,7 +236,7 @@
             <mxRectangle width="130.00000000000023" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eKhC6vjCc-BsnajqDUxY-14" value="tb_leave_request" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="eKhC6vjCc-BsnajqDUxY-14" value="tb_permission" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="452" width="180" height="330" as="geometry" />
         </mxCell>
         <mxCell id="eKhC6vjCc-BsnajqDUxY-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="eKhC6vjCc-BsnajqDUxY-14" vertex="1">
@@ -378,7 +378,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8IQFsYXmZuull7mwfXXN-51" value="tb_history_leave_request" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="8IQFsYXmZuull7mwfXXN-51" value="tb_history_permission" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="310" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8IQFsYXmZuull7mwfXXN-52" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="8IQFsYXmZuull7mwfXXN-51" vertex="1">
